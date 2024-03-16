@@ -4,11 +4,11 @@ This project is in Partial Fulfillment of the requirements for the degree in Bac
 Group Project by: 🌟`Jan Tan`, `Jay Villalon`, `Dante Wong de Lumen`, `Hugh Segovia`, `John Ombi-on`
 
 ## Major Components
-#### PIC16f84A
+- PIC16f84A
 ###### 8-bit microcontroller used to program the sequence of LEDs
-#### Motor
+- Motor
 ###### Used as the base of our propeller
-#### Hall Effect Sensor
+- Hall Effect Sensor
 ###### Used in the project for timing the sequence of our LEDs
 
 ## Programming
